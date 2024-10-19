@@ -19,7 +19,7 @@ You can see a live demo of the QR Code Generator [Click Here](https://qr-code-ge
 1. Clone or download the repository:
 
    ```bash
-   git clone
+   git clone https://github.com/Akki-soni/QR-Code-Generator.git
 
    ```
 
