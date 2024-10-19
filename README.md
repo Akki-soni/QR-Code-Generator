@@ -12,7 +12,7 @@ A simple QR Code Generator built using **HTML**, **CSS**, and **JavaScript**. Th
 
 ## Demo
 
-You can see a live demo of the QR Code Generator [Click Here]().
+You can see a live demo of the QR Code Generator [Click Here](https://qr-code-generator-sigma-henna.vercel.app/).
 
 ## How to Use
 
@@ -38,7 +38,7 @@ You can see a live demo of the QR Code Generator [Click Here]().
 ## Author
 
 Akash Chandra Verma \
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/akashchandraverma/
 
 ## Thank You
 
