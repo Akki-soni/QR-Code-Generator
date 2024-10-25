@@ -1,47 +1,80 @@
-# QR Code Generator
+<p align="center">
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/Akki-soni">
+  <img src="https://komarev.com/ghpvc/?username=akki-soni&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-A simple QR Code Generator built using **HTML**, **CSS**, and **JavaScript**. This tool allows users to input a URL or text, and instantly generates a QR code that can be downloaded and shared.
+<h1 align="center">QR Code Generator</h1>
 
-## Features
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+</p>
 
-- Generate QR codes for URLs or any custom text.
-- Instant QR code display on input.
-- Option to download the QR code as an image.
-- Responsive and user-friendly design.
-- Built using HTML, CSS, and Vanilla JavaScript.
+<p align="center">
+   A simple QR Code Generator built using **HTML**, **CSS**, and **JavaScript**. This tool allows users to input a URL or text, and instantly generates a QR code that can be downloaded and shared.
+</p>
 
-## Demo
+## 🚀 Features
 
-You can see a live demo of the QR Code Generator [Click Here]().
+- **_Generate QR codes for URLs or any custom text._**
+- **_Instant QR code display on input._**
+- **_Option to download the QR code as an image._**
+- **_Responsive and user-friendly design._**
+- **_Built using HTML, CSS, and Vanilla JavaScript._**
 
-## How to Use
+## 🛠️ Technologies Used
 
-1. Clone or download the repository:
-
-   ```bash
-   git clone
-
-   ```
-
-## Technologies
-
-- HTML: Structuring the web page.
-- CSS: Styling the app.
-- JavaScript: JavaScript: For generating QR codes dynamically.
+- **HTML**: Structuring the web page.
+- **CSS**: Styling the app.
+- **JavaScript**: JavaScript: For generating QR codes dynamically.
 
 ## Future Improvements
 
-- Add error correction level options for QR code.
-- Support for different QR code sizes and colors.
-- Allow users to scan QR codes using the camera.
+- **_Add error correction level options for QR code._**
+- **_Support for different QR code sizes and colors._**
+- **_Allow users to scan QR codes using the camera._**
 
-## Author
+## How to Use
 
-Akash Chandra Verma \
-LinkedIn:
+- **_Clone or download the repository:_**
+  ```bash
+  git clone https://github.com/Akki-soni/QR-Code-Generator.git
+  ```
+- **_*Open the index.html file in your browser.*_**
+
+## 🌟 Screenshots
+
+![Quiz Screenshot](/QR%20Screenshot.png)
+
+## 🔗 Live Demo
+
+[View Live Demo](https://qr-code-generator-sigma-henna.vercel.app/)
+
+## 🤝 Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+## 🌐 Socials
+
+<div align="center">
+
+[![Visit My Profile](https://img.shields.io/badge/Visit%20My%20Profile-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akki-soni)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashchandraverma/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akki-soni)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
+
+<a href="">
+  <img src="logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+</a>
+
+</div>
 
 ## Thank You
 
-Thank you for exploring the QR-Code-Generator App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
-
----
+Thank you for exploring the QUIZ App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
