@@ -75,6 +75,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Thank You
 
-Thank you for exploring the Random Password Generator! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
+Thank you for exploring the QR Code Generator! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
 
 </div>
