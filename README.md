@@ -71,3 +71,10 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 <a href="">
   <img src="logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+</a>
+
+## Thank You
+
+Thank you for exploring the Random Password Generator! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
+
+</div>
