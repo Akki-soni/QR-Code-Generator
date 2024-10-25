@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
@@ -76,3 +77,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 </div>
 1c8ac55
  with us. 😊
+=======
+
+>>>>>>> ce9b52978c91d903e27c1b33531da208154711a8
