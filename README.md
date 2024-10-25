@@ -6,6 +6,17 @@
   </a>
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<<<<<<< HEAD
+=======
+
+<h1 align="center">QR Code Generator</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+</p>
+>>>>>>> 9fdc7d7fcddfb92108016f402436db19f1c8ac55
 
 <h1 align="center">QR Code Generator</h1>
 
@@ -21,17 +32,36 @@
 
 ## 🚀 Features
 
+<<<<<<< HEAD
 - **_Generate QR codes for URLs or any custom text._**
 - **_Instant QR code display on input._**
 - **_Option to download the QR code as an image._**
 - **_Responsive and user-friendly design._**
 - **_Built using HTML, CSS, and Vanilla JavaScript._**
+=======
+You can see a live demo of the QR Code Generator [Click Here](https://qr-code-generator-sigma-henna.vercel.app/).
+>>>>>>> 9fdc7d7fcddfb92108016f402436db19f1c8ac55
 
 ## 🛠️ Technologies Used
 
+<<<<<<< HEAD
 - **HTML**: Structuring the web page.
 - **CSS**: Styling the app.
 - **JavaScript**: JavaScript: For generating QR codes dynamically.
+=======
+1. Clone or download the repository:
+
+   ```bash
+   git clone https://github.com/Akki-soni/QR-Code-Generator.git
+
+   ```
+
+## Technologies
+
+- HTML: Structuring the web page.
+- CSS: Styling the app.
+- JavaScript: JavaScript: For generating QR codes dynamically.
+>>>>>>> 9fdc7d7fcddfb92108016f402436db19f1c8ac55
 
 ## Future Improvements
 
@@ -41,6 +71,7 @@
 
 ## How to Use
 
+<<<<<<< HEAD
 - **_Clone or download the repository:_**
   ```bash
   git clone https://github.com/Akki-soni/QR-Code-Generator.git
@@ -74,6 +105,10 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 </a>
 
 </div>
+=======
+Akash Chandra Verma \
+LinkedIn: https://www.linkedin.com/in/akashchandraverma/
+>>>>>>> 9fdc7d7fcddfb92108016f402436db19f1c8ac55
 
 ## Thank You
 
