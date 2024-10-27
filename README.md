@@ -73,7 +73,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
   <img src="logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
-## Thank You
+## Thank You &#10084;
 
 Thank you for exploring the QR Code Generator! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
 
